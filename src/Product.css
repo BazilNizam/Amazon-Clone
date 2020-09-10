@@ -16,6 +16,7 @@
   width: 100%;
   object-fit: contain;
   margin-bottom: 15px;
+  z-index:-1;
 }
 .product__info {
   height: 100px;
